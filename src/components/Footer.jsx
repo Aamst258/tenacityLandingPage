@@ -38,7 +38,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <p>© 2023 Tenacity - All Rights Reserved</p>
-        <p>Made with &lt;/&gt; and &lt;3 by taufeeq.ml</p>
+        <p>Made with &lt;/&gt; and &lt;3 by RVU Students </p>
       </div>
     </footer>
   );
