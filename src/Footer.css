@@ -4,6 +4,7 @@
   display: flex;
   flex-wrap: wrap;
   padding: 20px;
+  gap: 20px; /* Added space between footer sections */
 }
 
 .footer-section {
@@ -15,11 +16,13 @@
 .footer-section h3 {
   border-bottom: 1px solid #444;
   padding-bottom: 5px;
+  margin-bottom: 15px; /* Increased bottom margin for more spacing */
 }
 
 .footer-section p,
 .footer-section ul {
-  margin: 10px 0;
+  margin: 15px 0; /* Increased margin for spacing between elements */
+  line-height: 1.6; /* Increased line-height for better readability */
 }
 
 .footer-section ul {
@@ -35,6 +38,10 @@
   flex-basis: 100%;
   text-align: center;
   border-top: 1px solid #444;
-  padding-top: 10px;
+  padding-top: 15px; /* Increased top padding for more spacing */
   margin-top: 20px;
+}
+
+.footer-bottom p {
+  margin: 5px 0; /* Added margin for consistent spacing */
 }
