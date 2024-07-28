@@ -12,6 +12,9 @@
   min-width: 200px;
   margin: 10px;
 }
+.about-tenacity p {
+  color: #78909c;
+}
 
 .footer-section h3 {
   border-bottom: 1px solid #444;
@@ -40,6 +43,10 @@
   border-top: 1px solid #444;
   padding-top: 15px; /* Increased top padding for more spacing */
   margin-top: 20px;
+  color: #78909C;  
+} 
+.footer-bottom .made_by{
+  color: white;
 }
 
 .footer-bottom p {

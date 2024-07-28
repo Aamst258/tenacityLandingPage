@@ -4,7 +4,7 @@ import "../Footer.css";
 const Footer = () => {
   return (
     <footer className="footer">
-      <div className="footer-section">
+      <div className="footer-section about-tenacity">
         <h3>About Tenacity</h3>
         <p>
           We are a community where students come to learn, grow, network, and
@@ -38,7 +38,7 @@ const Footer = () => {
       </div>
       <div className="footer-bottom">
         <p>© 2023 Tenacity - All Rights Reserved</p>
-        <p>Made with &lt;/&gt; and &lt;3 by RVU Students </p>
+        <p>Made with &lt;/&gt; and &lt;3 by <span className="made_by">RVU Students </span> </p>
       </div>
     </footer>
   );
