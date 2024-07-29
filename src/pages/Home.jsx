@@ -7,17 +7,17 @@ const Home = () => {
   const sections = [
     {
       title: 'Mission',
-      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      content: 'Empower students to reach their full potential through learning, mentorship, and collaboration.',
       imageSrc: 'https://cdn.builder.io/api/v1/image/assets/TEMP/29a043c7a31ab7145fb52392ad62ec5cdd64020417648bb0ed9148558e59a389?apiKey=303f4e9c2e3548e9bc5a09fc673fa272'
     },
     {
       title: 'Values',
-      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      content: 'Foster inclusivity, growth, and mutual support in a diverse community.',
       imageSrc: 'https://cdn.builder.io/api/v1/image/assets/TEMP/29a043c7a31ab7145fb52392ad62ec5cdd64020417648bb0ed9148558e59a389?apiKey=303f4e9c2e3548e9bc5a09fc673fa272'
     },
     {
       title: 'Impact',
-      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      content: 'Create meaningful connections and opportunities that inspire personal and academic growth.',
       imageSrc: 'https://cdn.builder.io/api/v1/image/assets/TEMP/29a043c7a31ab7145fb52392ad62ec5cdd64020417648bb0ed9148558e59a389?apiKey=303f4e9c2e3548e9bc5a09fc673fa272'
     }
   ];
